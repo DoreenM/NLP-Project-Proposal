@@ -1,6 +1,6 @@
 # NLP-Project-Proposal
 
-#Feelings About The Movies
+#Sentimental Analysis on Movie Reviews
 
 #Existing Technologies
 [Stanford University NLP Project](http://nlp.stanford.edu/sentiment/)
